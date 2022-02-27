@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to the Right Honourable, the Lord Mayor, aldermen, and the Common Councel of the City of London, Iune. 10. By His Excellencie T. Fairfax. O. Crumwell T. Hammond H. Ireton T. Rainsborough H. Waller. [brace] N. Rich. R. Hammond R. Lilburn, T. Pride, T. Hewson. I. Disborow.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88024</idno>
+            <idno type="STC">Wing L1622</idno>
+            <idno type="STC">Thomason E392_16</idno>
+            <idno type="STC">ESTC R201570</idno>
+            <idno type="EEBO-CITATION">99862070</idno>
+            <idno type="PROQUEST">99862070</idno>
+            <idno type="VID">160280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160280)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to the Right Honourable, the Lord Mayor, aldermen, and the Common Councel of the City of London, Iune. 10. By His Excellencie T. Fairfax. O. Crumwell T. Hammond H. Ireton T. Rainsborough H. Waller. [brace] N. Rich. R. Hammond R. Lilburn, T. Pride, T. Hewson. I. Disborow.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington at the blew Anchor in Corne-hill, neere the royall Exchange.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>In this edition, line 4 of title reads: "To the Right Honourable, the Lord".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160280:1" rendition="simple:additions"/>
+            <p>A LETTER SENT To the Right Honourable, the Lord Mayor, Aldermen, and the Com<g ref="char:EOLhyphen"/>mon Councel of the City of London, Iuno 10.</p>
+            <p>By His Excellencie
+<list>
+                  <item>T. Fairfax.</item>
+                  <item>O. Crumwell</item>
+                  <item>T. Hammond</item>
+                  <item>H. Ireton</item>
+                  <item>T. Rainsborough</item>
+                  <item>H. Waller.</item>
+                  <item>N. Rich.</item>
+                  <item>R. Hammond</item>
+                  <item>R. Lilburn,</item>
+                  <item>T. Pride,</item>
+                  <item>T. Hewſon.</item>
+                  <item>L. Disborow.</item>
+               </list>
+            </p>
+            <p>
+               <add>June 14<hi rend="sup">th</hi>
+               </add> LONDON Printed for George Whittington at the blew Anchor in Corne-hill, neere the royall Exchange.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160280:2"/>
+            <pb facs="tcp:160280:2"/>
+            <opener>
+               <salute>Right Honourable and truſty Friends.</salute>
+            </opener>
+            <p>HAving by our letters and other addreſſes preſented by our noble Generall to the ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, indeavoured to give ſatisfaction of the clearneſſe of our juſt de<g ref="char:EOLhyphen"/>mandes, and alſo in papers publiſhed by us, remon<g ref="char:EOLhyphen"/>ſtrated the grounds of our proceedings in proſecuti<g ref="char:EOLhyphen"/>on thereof: All which having been expoſed to a publike view, (we are confident) have come to your hands, and (at the leaſt) received a chatitable con<g ref="char:EOLhyphen"/>ſtruction from you. The ſum of all which deſires as Souldiers are no other then a deſire of ſatisfaction to our demandes as Souldiers, and reparation upon thoſe who have to the uttermoſt improved all op<g ref="char:EOLhyphen"/>portunities, and advantages, by falſe ſuggeſtions and miſrepreſentations, and otherwiſe for the deſtructi<g ref="char:EOLhyphen"/>on of this Army with a perpetuall blot of infamy up<g ref="char:EOLhyphen"/>on it, which we ſhould not value i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it ſingly concer<g ref="char:EOLhyphen"/>ned our own particulars (being ready to deny our ſelves in this as we have done in other Caſes for the Kingdomes good) but under this pretence, finding no leſſe involved in it then the overthrow of the pri<g ref="char:EOLhyphen"/>viledges both of Parliament and people, whom ra<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:160280:3"/>then they ſhall faile in their deſignes, or we re<g ref="char:EOLhyphen"/>ceive what in the eyes of all good men is juſt, endea<g ref="char:EOLhyphen"/>vours to ingage the Kingdome in a new warre, and this ſingly by thoſe who (when the tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of theſe things ſhall be made to appeare will be found the Authors of thoſe Evils that are feared as having no o<g ref="char:EOLhyphen"/>ther way to protect themſelves from que<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion and puniſhmen but by putting the Kingdome into blood (being) under pretences of the honour of, and their love to the Parliament, as i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that were d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arer to the a then us; if they had g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter proofe of their faithfulneſſe to it, then we, then we perceive, that under theſe vailes and pretences, they ſecke to inter<g ref="char:EOLhyphen"/>neſſe their deſigne in the City of London, as if that City ought to make good their miſcarriages, and ſhould preferr a few falſe ſeeking men, before the wel-farre of the publike, and ind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e have found theſe men ſo active to accomp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh their de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignes, and to have ſuch apt Inſtrument for their turn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in that City, that we have cauſe to ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect they ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge many therein, upon m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch are e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſwal<g ref="char:EOLhyphen"/>lowed in times of ſuch preju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice againſt m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that have given (we may ſpeake it without va<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) the moſt publike T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtimony of their good aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction to the publike, and to that City in particular.</p>
+            <p>For the things we inſiſt upon as Engliſhmen, (and meerly our b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Souldiers hath not ſtrip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us of that intereſt, although our malicious enemies would have it ſo) we deſire a ſettlem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of the peace of the King<g ref="char:EOLhyphen"/>dome, and of the lib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties of the ſubjects, according to the votes and Declarations <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Parliament, which before we tooke up Armes were by the Parliament
+<pb facs="tcp:160280:3"/>uſed as Arguments, and inducements to invite us, and divers of our deare friends out, (ſome of which have loſt their lives in this warre) which being by Gods bleſſing finiſhed, we thinke we have as much right to dem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, and deſire to ſee an happy ſettle<g ref="char:EOLhyphen"/>ment of, as we have to our money, or the other com<g ref="char:EOLhyphen"/>mon intereſts of Souldiers, which we have inſiſted upon, we finde alſo the moſt ingenious and honeſt people in almoſt in all the parts of the Kingdome, where we come full of the ſence of ruine and miſery, if the Army ſhould be di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore the peace of the Kingdome, and thoſe oth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before menti<g ref="char:EOLhyphen"/>oned, have a full and perfect ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tlement.</p>
+            <p>We have ſaid before, and profeſſe it now, we deſire no alteration of the Civill Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>We deſire not to intermeddle with, or in the leaſt, to interrupt the ſetling of the Preſ<g ref="char:EOLhyphen"/>byteriall Government; nor do we ſeek to o<g ref="char:EOLhyphen"/>pen a way to licentious liberty, un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er pre<g ref="char:EOLhyphen"/>tence of obtaining eaſe for tender Conſcien<g ref="char:EOLhyphen"/>ces, we profeſse (as ever) in theſe things (when the State has once made a ſetlement) We have nothing to ſay, but to ſubmit or ſuffer, only we could wiſh, that every good Citizen, and every man that walkes peace<g ref="char:EOLhyphen"/>ably in a blameleſſe Converſation, and is be<g ref="char:EOLhyphen"/>neficiall to the Common-wealth, may have of
+<pb facs="tcp:160280:4"/>liberties &amp; encouragements, it being accor<g ref="char:EOLhyphen"/>ding to the juſt policy of all States, even to juſtice it ſelf.</p>
+            <p>Theſe in briefe are our deſires, and the things for which we ſtand, beyond which we ſhall not goe; and for the obtaining theſe things, we are drawing neer your City, pro<g ref="char:EOLhyphen"/>feſſing ſincerely from our hearts, we intend not evill towards you, and undertaki<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to you; Dec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aring with all confidence and aſ<g ref="char:EOLhyphen"/>ſurance, That if you appear not againſt us in theſe our juſt D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſires, to aſſiſt that wicked party that would embroyl Us, and the king<g ref="char:EOLhyphen"/>dome; nor we, nor our Souldiers ſhall give the leaſt offence.</p>
+            <p>Wee come not to doe any act to preju<g ref="char:EOLhyphen"/>dice the Being of Parliament, or to the hurt of this in order to the preſent ſettlement of the Kingdome. Wee ſeek the good of all, and we ſhall here wayte, or remove to a further diſtance, there to abide (if once we be aſſured that a ſpeedy ſetlement of things be in hand) until they be accompliſhed; which done, we ſhal be moſt ready eyther all of us or ſo ma<g ref="char:EOLhyphen"/>ny of the Atmy as the Parliament ſhal think fit, to disband, or go for Ireland.</p>
+            <pb facs="tcp:160280:4"/>
+            <p> And although you ſuppoſe that rich City may ſeeme an inticing bayt to poore hungry Souldiers, to venture far to gaine the wealth thereof, yet (if not provoked) we do profeſs rather then any ſuch evill ſhould fall out, the Souldier ſhal make their way through our bloud to effect it: And wee can ſay this for moſt of them, for your better aſsurance, that they ſo little value their pay in compariſon of higher concernments to the Publique good, that rather then they will be unrighted in the matter of their honeſty and integrity, which hath ſuffered by the men they ayme at, and deſire Juſtice upon, or want the ſet<g ref="char:EOLhyphen"/>tlement of the Kingdomes peace, and their with their fellow-ſubjects liberties they will loſe all, which may be a ſtronge aſſurance to you, that its not your wealth they ſeeke, but the things tending in common to your and their welfare; which that they may obtaine, you ſhall doe like fellow-ſubjects and Bre<g ref="char:EOLhyphen"/>thren, if you ſolicite the Parliament for them and on their behalfe.</p>
+            <p>If after all this, you or a conſidera<g ref="char:EOLhyphen"/>ble part of you be ſeduccd to take up Armes in oppoſition to or hinderance
+<pb facs="tcp:160280:5"/>of theſe our juſt undertakings, we hope by this Brotherly Admonition, to the ſincerity whereof, wee cal God to wit<g ref="char:EOLhyphen"/>neſſe, we have freed our ſelves from all that ruine, which may befal that great and populous City, having hereby waſhed our hands thereof.</p>
+            <closer>
+               <dateline>Royſton <date>June 10. 1647.</date>
+               </dateline> 
+               <signed>Your affectionate friends to ſerve you.
+<list>
+                     <item>T. Fairfax.</item>
+                     <item>Oliver Cromwell.</item>
+                     <item>Thomas Hammond.</item>
+                     <item>Henry Ire<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on.</item>
+                     <item>Tho: Rainsborow.</item>
+                     <item>Hardres Waller.</item>
+                     <item>Nath: Rich.</item>
+                     <item>Robert Hammond.</item>
+                     <item>Robert Lilburn.</item>
+                     <item>Thomas Pride.</item>
+                     <item>Thomas Hewſon.</item>
+                     <item>John Disborow.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>To the Right Honourable the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Councell, of the Citie of London.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
